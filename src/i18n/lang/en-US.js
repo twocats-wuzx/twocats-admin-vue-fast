@@ -10,6 +10,7 @@ export default {
         password: 'Password',
         signIn: 'Sign In',
         accountSignIn: 'Account Sign In',
+        mobioleSignIn: 'Mobile Sign In',
         captcha: 'Captcha',
     }
 }

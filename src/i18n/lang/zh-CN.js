@@ -10,6 +10,7 @@ export default {
         password: '密码',
         signIn: '登录',
         accountSignIn: '帐号密码登录',
+        mobileSignIn: '手机号登录',
         captcha: '验证码',
     }
 }
